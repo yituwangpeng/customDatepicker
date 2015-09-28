@@ -1,4 +1,4 @@
-customeDatepicker
+CustomDatepicker
 =================
 
-a custome time picker,can set backgroundColor,font etc
+a custom time picker,can set backgroundColor,font etc
